@@ -1,2 +1,2 @@
 # hello-world
-test to create a project
+this is a temp to understand how to use github
